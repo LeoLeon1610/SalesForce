@@ -69,7 +69,7 @@ JSON (JavaScript Object Notation): es un formato de texto que usa llaves {} y co
 ```json
 {
   "nombre": "Leonardo",
-  "edad": 25
+  "edad": 23
 }
 ```
 XML (Extensible Markup Language): usa etiquetas similares a HTML para estructurar datos. Ejemplo:
