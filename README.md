@@ -213,6 +213,11 @@ Un Article es una pieza de información en la base de conocimientos (Knowledge B
 - Categorías o temas relacionados.
 - Fecha de creación.
 
+<h3>Relaciones entre los objetos</h3>
+
+<center>
+    <img src="https://github.com/user-attachments/assets/ca9f754a-330c-444e-8945-e64832cabc13" alt="Imagen">
+</center>
 ------------
 <h2 style="color: #3A67FF;">Ejercicio 6: Conceptos</h2>
 <h3>Soluciones de Salesforce</h3>
